@@ -40,7 +40,14 @@
 
 
 
-#  multiple 
+#  multiple
+import gdown
+
+model_url  = 'https://drive.google.com/uc?id=1k4h5hhUVOmkuc3hgTVFO_d-d9NIvagZU'
+
+output_path = 'my_model3.hdf5'
+
+gdown.download(model_url, output_path, quiet=False)
 
 import streamlit as st
 import tensorflow as tf
