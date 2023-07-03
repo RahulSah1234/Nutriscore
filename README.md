@@ -6,3 +6,5 @@ Obesity is one of the contemporary issues we are now facing.But the use of class
 ![image](https://user-images.githubusercontent.com/115871964/236400800-ac66b040-6cc8-4c03-8512-c6f0be1ab9f4.png)
 
 ![image](https://user-images.githubusercontent.com/115871964/236400854-113762b4-1597-439f-be80-41fe19e7a962.png)
+
+![image](https://github.com/RahulSah1234/Nutriscore/assets/115871964/fecaeb03-d329-4f4c-be7d-c3d4656a44ae)
