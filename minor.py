@@ -43,7 +43,7 @@
 #  multiple
 import gdown
 
-model_url  = 'https://drive.google.com/drive/home'
+model_url  = 'https://drive.google.com/file/d/1i6pvz0rBcu1uJZt19mBb8xz90vwYjLZ4/view?usp=sharing'
 
 output_path = 'my_model3.hdf5'
 
